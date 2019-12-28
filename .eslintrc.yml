@@ -1,0 +1,6 @@
+env:
+  es6: true
+  browser: false
+  commonjs: true
+
+extends: 'htmlacademy/es6'
